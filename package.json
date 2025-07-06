@@ -1,0 +1,17 @@
+{
+  "name": "registro_hincha",
+  "version": "1.0.0",
+  "description": "primera api con el nico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Alexis Moya & Nicolas Aguilera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.10"
+  }
+}
